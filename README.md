@@ -1,4 +1,4 @@
-### Hi there! I'm Danil Ivanyuk
+# Hi there! I'm Danil Ivanyuk
 
 ## About me
 - I'm currently working on a [E4L]
@@ -7,12 +7,14 @@
 - Draw more with Adobe Dimension
 
 ## Languages and tools
-<img align="center" alt="danilivanyuk.com" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
-<img align="center" alt="danilivanyuk.com" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
-<img align="center" alt="danilivanyuk.com" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
-<img align="center" alt="danilivanyuk.com" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-<img align="center" alt="danilivanyuk.com" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
-<img align="center" alt="danilivanyuk.com" width="22px" src="https://lh3.googleusercontent.com/f9eHJG02muNFhYavQHBEHhXigtdVx6KCHvt6a6DvNRBEbeiUnTZwBqM4NN0L24JNGxU=s180-rw">
+<p align="center">
+<img alt="danilivanyuk.com" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
+<img alt="danilivanyuk.com" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
+<img alt="danilivanyuk.com" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png">
+<img alt="danilivanyuk.com" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img alt="danilivanyuk.com" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png">
+<img alt="danilivanyuk.com" width="22px" src="https://lh3.googleusercontent.com/f9eHJG02muNFhYavQHBEHhXigtdVx6KCHvt6a6DvNRBEbeiUnTZwBqM4NN0L24JNGxU=s180-rw">
+</p>
 
 ### Contacts
 
