@@ -22,10 +22,9 @@
 </p>
 
 ### Contacts
-[<img alt="telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/groovyD1 "Telegram")
+
 <p align="center">
-
-
+  [<img alt="telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/groovyD1 "Telegram")
 </p>
 [link to Google!](http://google.com)
 
