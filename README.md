@@ -1,6 +1,6 @@
 [![Spotify](https://vercel.com/danilivanyuk/spotify)](https://open.spotify.com/user/r37q1hnh7y58ny28rpdlzjguc)
 
-[<img src="https://spotify.danilivanyuk.vercel.app/api/spotify-playing" width="350" />](https://open.spotify.com/user/r37q1hnh7y58ny28rpdlzjguc)
+[<img src="https://novatorem-iota-henna.vercel.app/api/spotify-playing" width="350" />](https://open.spotify.com/user/r37q1hnh7y58ny28rpdlzjguc)
 
 # Hi there! I'm Danil Ivanyuk
 
