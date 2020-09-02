@@ -1,6 +1,6 @@
-[![Spotify](https://vercel.com/danilivanyuk/spotify)](https://open.spotify.com/user/r37q1hnh7y58ny28rpdlzjguc)
+[![Spotify](https://novatorem-git-master.danilivanyuk.vercel.app/api/spotify)](https://open.spotify.com/user/r37q1hnh7y58ny28rpdlzjguc)
 
-[<img src="https://spotify.danilivanyuk.vercel.app/api/spotify-playing" width="350" />](https://open.spotify.com/user/r37q1hnh7y58ny28rpdlzjguc)
+<!-- [<img src="https://spotify.danilivanyuk.vercel.app/api/spotify-playing" width="350" />](https://open.spotify.com/user/r37q1hnh7y58ny28rpdlzjguc) -->
 
 # Hi there! I'm Danil Ivanyuk
 
@@ -34,12 +34,3 @@
 
 [telegram]: https://t.me/groovyD1
 <!-- [website]: https://danilivanyuk.com/ -->
-
-
-<!-- AQC5wljIKW-39TSfJQL2s4CI3g2VlbgVg6R5QDXRddzd_PiQJEQJi_SiFsWbCK3WO6GHuVRzvs4YW1GgUfhSATLkiktpSB30dYQh6tUUIAjldG27wIf-irI6kQBpcZI_A8I-baKgIY3cns7eA9uryHGjbUMMyA8Rpf6lXfqIuZBGCbQrB4IxQAHeGzL0a8YrlSW19qHDLO1sDlZcdhO3wQG_eqDDmiV1ERRSehyE3irLkMj-8e8
-
-
-curl -X POST -H "Content-Type: application/x-www-form-urlencoded" -H "Authorization: Basic MmU2MjcyMTRiNDdjNDhhMWE0ZmMwZjZhOWNjMzRjZDQ6ODc0NjJjNWNmYmMzNGVhOGIyMDhjNGU5Y2RjZjg4NmY=" -d "grant_type=authorization_code&redirect_uri=http://localhost/callback/&code=AQC5wljIKW-39TSfJQL2s4CI3g2VlbgVg6R5QDXRddzd_PiQJEQJi_SiFsWbCK3WO6GHuVRzvs4YW1GgUfhSATLkiktpSB30dYQh6tUUIAjldG27wIf-irI6kQBpcZI_A8I-baKgIY3cns7eA9uryHGjbUMMyA8Rpf6lXfqIuZBGCbQrB4IxQAHeGzL0a8YrlSW19qHDLO1sDlZcdhO3wQG_eqDDmiV1ERRSehyE3irLkMj-8e8" https://accounts.spotify.com/api/token
-
-
-AQC5Ta6Irz4Mw9cisTRD-7UEskSb-I-gv1yAxZ_eqWmXsdQCi_DxZVjRA9FR3eMwQaXbrojSiZnPdJCC8k6Ppo4f29uacM0wyiOkSxD7BtHUtpadjE7qCPNPDoBFsZk2qU0 -->
