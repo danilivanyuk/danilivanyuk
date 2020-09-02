@@ -23,7 +23,7 @@
 
 ### Contacts
 <p align="center">
-[<img alt="danilivanyuk.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/groovyD1)
+[[telegram]<img alt="danilivanyuk.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/groovyD1)
 </p>
 
 <br><br>
