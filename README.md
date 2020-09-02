@@ -1,7 +1,9 @@
 # Hi there! I'm Danil Ivanyuk
 
-## I'm currently learning
+
 <ul align="center">
+## I'm currently learning
+
     <li>:open_hands: JavaScript</li>
     <li>:snake: Python</li>
     <li>:cd: MySQL</li>
