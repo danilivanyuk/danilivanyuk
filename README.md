@@ -1,9 +1,4 @@
-[![Spotify](https://novatorem-git-master.danilivanyuk.vercel.app/api/spotify)](https://open.spotify.com/user/r37q1hnh7y58ny28rpdlzjguc)
-
-<!-- [<img src="https://spotify.danilivanyuk.vercel.app/api/spotify-playing" width="350" />](https://open.spotify.com/user/r37q1hnh7y58ny28rpdlzjguc) -->
-
 # Hi there! I'm Danil Ivanyuk
-
 
 ## I'm currently learning
 - JavaScript
@@ -31,6 +26,8 @@
 [<img alt="danilivanyuk.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg">][telegram]
 </p>
 
+
+[![Spotify](https://novatorem-git-master.danilivanyuk.vercel.app/api/spotify)](https://open.spotify.com/user/r37q1hnh7y58ny28rpdlzjguc)
 
 [telegram]: https://t.me/groovyD1
 <!-- [website]: https://danilivanyuk.com/ -->
