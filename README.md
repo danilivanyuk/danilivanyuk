@@ -1,14 +1,15 @@
 # Hi there! I'm Danil Ivanyuk
 
 ## I'm currently learning
-- JavaScript
-- Python
-- MySQL
-- Adobe Dimension
+-:open_hands: JavaScript
+-:snake: Python
+-:cd: MySQL
+-:green_book: Italian
+-:pencil2: Adobe Dimension
 
 ## I'm working on
-- E4L
-- 10 JavaScript projects [2/10]
+-:mortar_board: E4L
+-:large_blue_diamond: 10 JavaScript projects [2/10]
 
 ## Languages and tools
 <p align="center">
