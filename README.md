@@ -1,11 +1,13 @@
 # Hi there! I'm Danil Ivanyuk
 
 ## I'm currently learning
--:open_hands: JavaScript
--:snake: Python
--:cd: MySQL
--:green_book: Italian
--:pencil2: Adobe Dimension
+<ul align="center">
+    <li>:open_hands: JavaScript</li>
+    <li>:snake: Python</li>
+    <li>:cd: MySQL</li>
+    <li>:green_book: Italian</li>
+    <li>:pencil2: Adobe Dimension</li>
+</ul>
 
 ## I'm working on
 -:mortar_board: E4L
