@@ -22,11 +22,13 @@
 </p>
 
 ### Contacts
+[I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 <p align="center">
 <img alt="telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 
 </p>
 [link to Google!](http://google.com)
+
 <!-- [telegram]: https://t.me/groovyD1 -->
 <br><br>
 
