@@ -10,8 +10,8 @@
 <p align="center">:pencil2: Adobe Dimension</p>
 
 ## I'm working on
--:mortar_board: E4L
--:large_blue_diamond: 10 JavaScript projects [2/10]
+<p align="center">:mortar_board: E4L</p>
+<p align="center">:large_blue_diamond: 10 JavaScript projects [2/10]</p>
 
 ## Languages and tools
 <p align="center">
