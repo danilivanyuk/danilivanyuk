@@ -3,15 +3,19 @@
 
 
 ## I'm currently learning
-<p align="center">:open_hands: JavaScript</p>
-<p align="center">:snake: Python</p>
-<p align="center">:cd: MySQL</p>
-<p align="center">:green_book: Italian</p>
-<p align="center">:pencil2: Adobe Dimension</p>
+<ul align="left">
+    <li>:open_hands: JavaScript</li>
+    <li>:snake: Python</li>
+    <li>:cd: MySQL</li>
+    <li>:green_book: Italian</li>
+    <li>:pencil2: Adobe Dimension</li>
+</ul>
 
 ## I'm working on
-<p align="center">:mortar_board: E4L</p>
-<p align="center">:large_blue_diamond: 10 JavaScript projects [2/10]</p>
+<ul align="left">
+  <li>:mortar_board: E4L</li>
+  <li>:large_blue_diamond: 10 JavaScript projects [2/10]</li>
+</ul>
 
 ## Languages and tools
 <p align="center">
