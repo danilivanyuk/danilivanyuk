@@ -24,10 +24,10 @@
 ### Contacts
 <p align="center">
 <img alt="telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-[telegram](https://t.me/groovyD1)
-</p>
 
-[telegram]: https://t.me/groovyD1
+</p>
+[telegram](https://t.me/groovyD1)
+<!-- [telegram]: https://t.me/groovyD1 -->
 <br><br>
 
 [![Spotify](https://novatorem-git-master.danilivanyuk.vercel.app/api/spotify)](https://open.spotify.com/user/r37q1hnh7y58ny28rpdlzjguc)
