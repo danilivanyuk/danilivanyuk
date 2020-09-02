@@ -23,12 +23,11 @@
 
 ### Contacts
 <p align="center">
-[<img alt="danilivanyuk.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img alt="danilivanyuk.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/groovyD1)
 </p>
 
 <br><br>
 
 [![Spotify](https://novatorem-git-master.danilivanyuk.vercel.app/api/spotify)](https://open.spotify.com/user/r37q1hnh7y58ny28rpdlzjguc)
 
-[telegram]: 
 <!-- [website]: https://danilivanyuk.com/ -->
