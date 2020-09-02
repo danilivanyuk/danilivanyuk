@@ -18,7 +18,7 @@
 
 ### Contacts
 <p align="center">
-[<img alt="danilivanyuk.com" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg">][telegram]
+[<img alt="danilivanyuk.com" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg">][telegram]
 </p>
 
 
