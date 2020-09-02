@@ -28,11 +28,9 @@
 <img alt="danilivanyuk.com" height="20px" src="https://img.shields.io/badge/django%20-%23092E20.svg?&style=for-the-badge&logo=django&logoColor=white">
 </p>
 
-### Contacts
+## Contacts
 [<img alt="telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/groovyD1 "Telegram")
 
 <br><br>
 
 [![Spotify](https://novatorem-git-master.danilivanyuk.vercel.app/api/spotify)](https://open.spotify.com/user/r37q1hnh7y58ny28rpdlzjguc)
-
-<!-- [website]: https://danilivanyuk.com/ -->
