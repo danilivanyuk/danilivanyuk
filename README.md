@@ -12,8 +12,8 @@
 - Adobe Dimension
 
 ## I'm working on
-- E4L
-- 10 JavaScript projects [2/10]
+- E4L.
+- 10 JavaScript projects [2/10].
 
 ## Languages and tools
 <p align="center">
