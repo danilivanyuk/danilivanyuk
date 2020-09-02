@@ -26,7 +26,7 @@
 <img alt="telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 
 </p>
-[telegram](https://t.me/groovyD1)
+[link to Google!](http://google.com)
 <!-- [telegram]: https://t.me/groovyD1 -->
 <br><br>
 
