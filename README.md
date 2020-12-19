@@ -5,15 +5,14 @@
 ## I'm currently learning
 <ul align="left">
     <li>:open_hands: JavaScript</li>
-    <li>:snake: Python</li>
+    <li>:snake: ReactJS</li>
     <li>:cd: MySQL</li>
     <li>:green_book: Czech</li>
 </ul>
 
 ## I'm working on
 <ul align="left">
-  <li>:mortar_board: E4L</li>
-  <li>:large_blue_diamond: 10 JavaScript projects [2/10]</li>
+  <li>:large_blue_diamond: React Projects</li>
 </ul>
 
 ## Languages and tools
