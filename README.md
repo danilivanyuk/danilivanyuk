@@ -1,19 +1,6 @@
-# Hi there! I'm Danil Ivanyuk
+# Danil Ivanyuk
 
 
-
-## I'm currently learning
-<ul align="left">
-    <li>:open_hands: JavaScript</li>
-    <li>:snake: ReactJS</li>
-    <li>:cd: MySQL</li>
-    <li>:green_book: Czech</li>
-</ul>
-
-## I'm working on
-<ul align="left">
-  <li>:large_blue_diamond: React Projects</li>
-</ul>
 
 ## Languages and tools
 <p align="center">
