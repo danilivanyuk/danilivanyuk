@@ -14,7 +14,7 @@
 </p>
 
 ## Contacts
-[<img alt="telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/groovyD1 "Telegram")
+[<img alt="telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />](https://t.me/danilivanyuk "Telegram")
 
 <br><br>
 
